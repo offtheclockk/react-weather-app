@@ -28,7 +28,7 @@
 
 
 ## Screenshots
-[ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/88730624/231898486-cb6587f8-f416-4e09-9adc-8354bbbf6a62.gif)
+![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/88730624/231898486-cb6587f8-f416-4e09-9adc-8354bbbf6a62.gif)
 
 
 ## Setup
